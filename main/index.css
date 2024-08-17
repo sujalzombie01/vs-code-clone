@@ -26,6 +26,7 @@ body{
 #image{
     height: 5vh;
     width: 4vw;
+    margin-top: 2vh;
 }
 .rr{
     display: flex;
