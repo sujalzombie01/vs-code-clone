@@ -1,0 +1,185 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+*{
+    margin: 0px ;
+    padding:0px;
+    
+}
+body{
+    background-color:#0e0e0e ;
+}
+.uniquifier {
+    font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  }
+.dd{
+    color: rgb(212, 212, 207);
+    background-color: #0e0e0e;
+    height: 10vh;
+    /* border-bottom: 0.5px solid rgb(255, 250, 250); */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+#image{
+    height: 5vh;
+    width: 4vw;
+}
+.rr{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
+.rr a{
+    text-decoration: none;
+    color: rgb(194, 194, 192);
+}
+.dam{
+     padding: 10px; 
+}
+.damm{
+    padding: 10px; 
+}
+.dam :hover{
+    color: rgb(255, 255, 255);
+}
+.do{
+    margin-top: 2vh;
+}
+.wn a{
+    padding: 6px 9px 3px 6px;
+    background-color: rgba(42, 212, 255, 0.863);
+}
+
+.wn >a:hover{
+    background-color: blue;
+}
+.wn{
+    margin-top: 3vh;
+}
+.ii input{
+    padding: 10px 10px 10px 10px;
+    color: rgb(255, 255, 255);
+    outline: none;
+    background-color: #0e0e0e;
+    outline: none;
+    border: 1px ;
+    
+}
+/* navbar end */
+#z1{
+    color: antiquewhite;
+    padding: 0px 30vw 0px 30vw;
+    margin: 0px;
+}
+#z1 a{
+    color: rgb(57, 228, 240);
+}
+/* first line end here */
+#s1{
+    transform: translate(10%,5%);
+    display: flex;
+    /* background-color: antiquewhite; */
+    max-width: 90vw;
+    height: 80vh;
+    align-items: center;
+    color: aliceblue;
+
+}
+#s2{
+    /* padding: 5vh 3vw 10vh 3vw; */
+    margin: 0vh 2vw 3vh 1vw;
+    /* background-color: red; */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+#free{
+    color: beige;
+    background-color: #272424;
+    border-radius: 30px;
+    padding: 20px 30px 20px 30px;
+    margin: 0vh 0vw 2vh 0vw; 
+}
+#h1{
+    font-size: 8vh;
+    margin-left: 3vw;
+    color: rgb(255, 255, 255);
+    
+}
+#butt{
+ border: none;
+ padding: 8px;
+ background-color: rgb(73, 188, 241);
+ font-size: 20px;
+ font-weight: 800;
+ color: silver;
+}
+#butt:hover{
+    color: azure;
+    background-color: rgb(33, 95, 228);
+}
+pre a{
+    color: rgb(53, 238, 229);
+    text-decoration: none;
+}
+#by{
+    font-size: 10px;
+}
+#by a{
+    color: aqua;
+}
+#imo{
+    height:80vh;
+    width:50vw ;
+}
+ /* next div */
+#cham{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform: translate(10%,30%);
+    width: 80vw;
+    height: 70vh;
+    color: beige;
+    
+}
+ /* next inner div */
+
+ .ram{
+    position: relative;
+    width: 50%;
+    height: 100%;
+    font-size: 20px;
+ }
+ .ras{
+    position: relative;
+    transform: translate(0,50%);
+ }
+ #ran{
+    position: relative;
+    width: 50%;
+    height: 100%;
+    list-style: none;
+    display: grid;
+    grid-template-columns: 35% 35% 35%;
+    align-items: center;
+ }
+ .ron{
+  display:flex;
+  align-items: baseline;
+  gap: 30px;
+  border: 3px solid white;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 10px;
+  color: silver;
+ }
+ .ron img{
+    height: 50px;
+    width: 50px;
+ }

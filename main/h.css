@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(14, 13, 13);
+    color: white;
+}
+h1{
+    font-size: 150px;
+    font-weight: 700;
+    margin:0 auto ;
+}
+h1:hover{
+    color: aqua;
+    font-size: 170px;
+}
+p,i{
+    font-size: 50px;
+}
